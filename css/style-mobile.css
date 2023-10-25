@@ -1,0 +1,59 @@
+.header nav h1{
+  float:none;
+  text-align: center;
+  
+}
+.header nav ul{
+  float:none;
+}
+.header nav ul li{
+  float: none;
+  text-align: center;
+}
+.header nav h1 a{
+  padding: 10px;
+}
+/* vp */
+.vp-content{
+  padding-top: 50px;
+}
+.vp-content h1{
+  font-size: 25px;
+}
+/* feature */
+.feature{
+  float: none;
+  width: 100%;
+ margin-bottom: 2rem;
+}
+/* where */
+.where{
+  padding: 80px 20px 50px 20px;
+  overflow: auto;
+  min-height: 100vh;
+}
+.where-img{
+  float: none;
+  width: 80%;
+  border: 0;
+  border-radius: 5px;
+  margin-bottom: 3rem;
+  display: block;
+  margin:auto;
+}
+.where-text{
+  float: none;
+  width: 100%;
+  text-align: center;
+  }
+.underline{
+  padding-bottom: 0px;
+  border-bottom: 5px solid #ddd;
+}
+/* contact  */
+.contact{
+  padding: 50px 0px 0px 0px;
+  min-height: 100vh;
+}
+
+
